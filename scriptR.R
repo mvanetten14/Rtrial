@@ -120,3 +120,5 @@ analyze_all <- function (pattern_char) {
 }
 
 analyze_all("inflammation")
+
+#new comment
